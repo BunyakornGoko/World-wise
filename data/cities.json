@@ -37,18 +37,6 @@
       }
     },
     {
-      "id": "f5fc",
-      "cityName": "Multai",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-10-14T10:47:59.231Z",
-      "notes": "Indian guy",
-      "position": {
-        "lat": "21.861498734372567",
-        "lng": "78.13476562500001"
-      }
-    },
-    {
       "id": "0c1a",
       "cityName": "Hayma’",
       "country": "Oman",
@@ -73,18 +61,6 @@
       }
     },
     {
-      "id": "5267",
-      "cityName": "Nakhon Chai Si",
-      "country": "Thailand",
-      "emoji": "🇹🇭",
-      "date": "2024-10-14T10:49:31.294Z",
-      "notes": "",
-      "position": {
-        "lat": "13.82741223607727",
-        "lng": "100.13488769531251"
-      }
-    },
-    {
       "id": "64c3",
       "cityName": "Herrera del Duque",
       "country": "Spain",
@@ -106,6 +82,30 @@
       "position": {
         "lat": "13.75072377612588",
         "lng": "100.4857635498047"
+      }
+    },
+    {
+      "id": "f76f",
+      "cityName": "Garoowe",
+      "country": "Somalia",
+      "emoji": "🇸🇴",
+      "date": "2024-10-14T18:32:49.805Z",
+      "notes": "",
+      "position": {
+        "lat": "8.407168163601076",
+        "lng": "48.97705078125"
+      }
+    },
+    {
+      "id": "9e56",
+      "cityName": "la Massana",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-10-14T18:33:25.844Z",
+      "notes": "",
+      "position": {
+        "lat": "42.52069952914966",
+        "lng": "1.47216796875"
       }
     }
   ]
