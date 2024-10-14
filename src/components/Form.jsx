@@ -11,7 +11,7 @@ import useUrlPosition from "../hooks/useUrlPosition"
 import Message from "./Message"
 import Spinner from "./Spinner"
 import DatePicker from "react-datepicker"
-import { useCities } from "../CitiesContext"
+import { useCities } from "../contexts/CitiesContext"
 import { useNavigate } from "react-router-dom"
 
 export function convertToEmoji(countryCode) {
