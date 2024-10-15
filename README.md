@@ -2,8 +2,8 @@
 
 <hr/>
 <div align="center">
-<img src = "./src/assets/home-worldwise" style = "border-radius:10px">
+<img src = "./src/assets/home-worldwise.png" style = "border-radius:10px">
 </div>
 <div align="center">
-<img src = "./src/assets/map-worldwise" style = "border-radius:10px">
+<img src = "./src/assets/map-worldwise.png" style = "border-radius:10px">
 </div>
